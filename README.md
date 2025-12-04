@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+I’m a junior cybersecurity analyst with a strong interest in IT security.
+I generally spend my time to learn new techniques, experimenting with tools, and i>
+
+This GitHub is where I share some of my projects and what I learn along the way.
+But I'm still a beginner in the world of cybersecurity
+
+- 🔐 Interests: CTFs, pentesting basics, web exploitation
+- 🧪 Currently exploring: new security tools and methodologies
+- 📂 Repositories: small projects, notes, and experiments
 <!--
 **eliotlks/eliotlks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
