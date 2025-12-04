@@ -1,10 +1,10 @@
 # Hi there 👋
 
-I’m a junior cybersecurity analyst with a strong interest in IT security.
-I generally spend my time to learn new techniques, experimenting with tools, and i>
+I’m a junior cybersecurity analyst with a strong interest in IT security.  
+I spend a lot of time learning new techniques, experimenting with tools, and improving my problem-solving skills through CTFs (Capture The Flag).
 
 This GitHub is where I share some of my projects and what I learn along the way.
-But I'm still a beginner in the world of cybersecurity
+But I'm still a beginner in the world of cybersecurity 😄
 
 - 🔐 Interests: CTFs, pentesting basics, web exploitation
 - 🧪 Currently exploring: new security tools and methodologies
