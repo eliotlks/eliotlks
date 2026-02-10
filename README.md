@@ -1,4 +1,4 @@
-# Hi
+# Whoami ?!
 
 I’m a cybersecurity enthoushiast. 
 I spend a lot of time learning new techniques, experimenting with tools, and improving my problem-solving skills through CTFs (Capture The Flag).
