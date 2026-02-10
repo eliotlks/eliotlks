@@ -1,14 +1,11 @@
-# Hi, 👋
+# Hi
 
 I’m a cybersecurity enthoushiast. 
 I spend a lot of time learning new techniques, experimenting with tools, and improving my problem-solving skills through CTFs (Capture The Flag).
 
-This GitHub is where I share some of my projects and what I learn along the way.
-But I'm still a beginner in the world of cybersecurity.
-
 - 🔐 Interests: CTFs, pentesting, web exploitation
 - 🧪 Currently exploring: New security tools and methodologies
-- 📂 Learning plateformes: PicoCtf, Tryhackme, HackTheBox
+- 📂 Learning plateformes: Tryhackme, HackTheBox
 <!--
 **eliotlks/eliotlks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
